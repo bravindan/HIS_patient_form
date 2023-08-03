@@ -1,0 +1,7 @@
+
+
+ Download the zip files and create a single folder called HIS on your computer. 
+Movie and extract the 2 zip files in the folder
+cd into each extracted folder and install the dependencies by running yarn in the fronted and npm install in the backend folder.
+Create mysql database and import the sql file from the repo
+start server by running npm start and npm run dev on the backend and fontend respecitvely.
